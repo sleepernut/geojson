@@ -1,0 +1,382 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Budapest"
+      },
+      "geometry": {
+        "coordinates": [
+          19.057765692921294,
+          47.518079415864634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Berlin"
+      },
+      "geometry": {
+        "coordinates": [
+          13.41671573326741,
+          52.51630961223293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Dusseldorf"
+      },
+      "geometry": {
+        "coordinates": [
+          6.807669441186903,
+          51.21563795842391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Rome"
+      },
+      "geometry": {
+        "coordinates": [
+          12.479030594601426,
+          41.889454930289304
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Mazzaron"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.1169759557222108,
+          38.023999582309074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Sevilla"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.985349799888297,
+          37.39926604641316
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Barcelona"
+      },
+      "geometry": {
+        "coordinates": [
+          2.165266931078662,
+          41.377202340144805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Naples"
+      },
+      "geometry": {
+        "coordinates": [
+          14.272607347380728,
+          40.83556819849633
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Florence"
+      },
+      "geometry": {
+        "coordinates": [
+          11.26598302497905,
+          43.781788861894796
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Pisa"
+      },
+      "geometry": {
+        "coordinates": [
+          10.397062795121116,
+          43.7232120563001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Gibraltar"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.3460796758856475,
+          36.09368328429551
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Monaco"
+      },
+      "geometry": {
+        "coordinates": [
+          7.372518293774647,
+          43.74050023604494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Clermont-Ferrand"
+      },
+      "geometry": {
+        "coordinates": [
+          3.085069168099267,
+          45.78521248781749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Key-West"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.79658206835894,
+          24.55904409385616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Miami"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19636857397596,
+          25.7710049150527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Orlando"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.38371218050445,
+          28.554169344490134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Cape Canaveral"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.60703952214267,
+          28.389371154149956
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Daytona Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.01546265798413,
+          29.210965140422417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Sarasota"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.52484082936618,
+          27.333235879613028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Antalya"
+      },
+      "geometry": {
+        "coordinates": [
+          30.72541289828274,
+          36.881815117828836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Paris"
+      },
+      "geometry": {
+        "coordinates": [
+          2.342356032900085,
+          48.87200190160064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Antwerpen"
+      },
+      "geometry": {
+        "coordinates": [
+          4.41863201166629,
+          51.224817124327046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Durbuy"
+      },
+      "geometry": {
+        "coordinates": [
+          5.457757082325884,
+          50.35160957640929
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Gerolstein"
+      },
+      "geometry": {
+        "coordinates": [
+          6.655200243450167,
+          50.22292389811517
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Spa"
+      },
+      "geometry": {
+        "coordinates": [
+          5.863072543161763,
+          50.49152043058916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "London"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1258745258639351,
+          51.50920242055392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "New-Castle"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.6125299700634343,
+          54.97467578431386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Munich"
+      },
+      "geometry": {
+        "coordinates": [
+          11.582708967040361,
+          48.135364703245216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Locaties": "Modena"
+      },
+      "geometry": {
+        "coordinates": [
+          10.922116416663727,
+          44.64995933254809
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
